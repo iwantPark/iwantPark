@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwantPark&layout=compact">
 </div>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=ckdwns1221&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,a49cec,d6a4a4">
+  <img src="https://github-readme-stats.vercel.app/api?username=iwantPark&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,a49cec,d6a4a4">
 </div>
 <br />
 
