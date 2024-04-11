@@ -2,7 +2,7 @@
 <!-- introduction section -->
 <h3 align=center font-size=20px>🙌Introduction🙌</h3>
 <p align=center>
-  Welcome to ChangJun's GitHub
+  Welcome to HY's GitHub
 </p>
 <br />
 
