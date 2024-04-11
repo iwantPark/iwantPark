@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44" />
 <!-- introduction section -->
 <h3 align=center font-size=20px>🙌Introduction🙌</h3>
@@ -5,34 +6,21 @@
   Welcome to HY's GitHub
 </p>
 <br />
-<hr>
-<!-- Skill section -->
-<h3 align=center>⚡Skill⚡</h3>
-<div align=center>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7533f9?style=flat&logo=Bootstrap&logoColor=white" />
-</div>
-<div align=center>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" />
-</div>
-<div align=center>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/> 
-</div>
+
+## 🛠️ Tech Stack 🛠️
+![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
-<br />
-
-
+<br >
 
 <!-- Tool section -->
-<h3 align=center>🛠Tool🛠</h3>
+<h2 align=center>⚙️Tool⚙️</h2>
 <div align=center>
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-f7f6f2?style=flat&logo=Notion&logoColor=black">
@@ -40,8 +28,6 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
-  
-  
 </div>
 
 
@@ -49,7 +35,7 @@
 <hr>
 
 <!-- Widget section -->
-<h3 align=center>📊Widget📊</h3>
+<h2 align=center>🚀 Stats 🚀</h2>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwantPark&layout=compact">
 </div>
@@ -58,8 +44,4 @@
 </div>
 <br />
 
-<!-- 3D-Grass section -->
-<!--
-<h3 align=center>🌱3D-Grass🌱</h3>
-![3D-Grass](./profile-3d-contrib/profile-night-rainbow.svg)
--->
+</div>
