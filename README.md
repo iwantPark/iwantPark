@@ -16,6 +16,8 @@
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" />
 </div>
 <br />
@@ -25,8 +27,7 @@
 <div align=center>
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-f7f6f2?style=flat&logo=Notion&logoColor=black">
-  <img src=https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src=https://img.shields.io/badge/Jira-#0052CC?style=flat&logo=Jira&logoColor=Blue"/>
+  
   
 </div>
 <br />
