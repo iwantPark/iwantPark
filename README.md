@@ -32,13 +32,6 @@
 </div>
 <br />
 
-<!-- Study section -->
-<h3 align=center>📖Study📖</h3>
-<div align=center>
-   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">
-</div>
-<br/>
-
 <!-- Widget section -->
 <h3 align=center>📊Widget📊</h3>
 <div align=center>
