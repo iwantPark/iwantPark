@@ -25,7 +25,11 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/> 
 </div>
 
+
+
 <br />
+
+
 
 <!-- Tool section -->
 <h3 align=center>🛠Tool🛠</h3>
@@ -39,15 +43,20 @@
   
   
 </div>
+
+
 <br />
+
 
 <!-- Widget section -->
 <h3 align=center>📊Widget📊</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwantPark&theme=shadow_green&rank_icon=github)
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwantPark&layout=compact">
 </div>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=iwantPark&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,a49cec,d6a4a4">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jym-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br />
 
