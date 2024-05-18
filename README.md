@@ -3,7 +3,7 @@
 <!-- introduction section -->
 <h3 align=center font-size=20px>🙌Introduction🙌</h3>
 <p align=center>
-  개발김치냉장고
+ "Welcome to the Development Kimchi Refrigerator"
 </p>
 <br />
 
